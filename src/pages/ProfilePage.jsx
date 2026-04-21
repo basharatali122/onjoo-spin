@@ -1228,9 +1228,9 @@ function AccountsTable({ profile }) {
     setGenerating(false);
   };
 
-  const previewName = genUsername
-    ? `${genUsername}${String(genStart).padStart(String(genEnd).length, '0')} … ${genUsername}${genEnd}`
-    : '';
+ const previewName = genUsername
+  ? `${genUsername}${genStart} … ${genUsername}${genEnd}`
+  : '';
 
   return (
     <div>
