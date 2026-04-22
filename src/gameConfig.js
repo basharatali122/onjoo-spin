@@ -128,7 +128,7 @@ export const GAMES = [
     color:         '#38bdf8',
     LOGIN_WS_URL:  'ws://47.251.75.73:8600/',
     GAME_VERSION:  '2.0.1',
-    ORIGIN:        'http://47.251.75.73',
+    ORIGIN:        'http://okay.jkgame.vip',
     noWeekendSpin: true,
     workers:       30,
     note:          null,
