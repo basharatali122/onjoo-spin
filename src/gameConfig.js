@@ -117,7 +117,7 @@ export const GAMES = [
     GAME_VERSION:  '2.0.1',
     ORIGIN:        'https://play.milkywayapp.xyz',
     noWeekendSpin: false,
-    workers:       25,
+    workers:       33,
     note:          null,
   },
   {
