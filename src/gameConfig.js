@@ -130,7 +130,7 @@ export const GAMES = [
     GAME_VERSION:  '2.0.1',
     ORIGIN:        'http://okay.jkgame.vip',
     noWeekendSpin: true,
-    workers:       2,
+    workers:       1,
     note:          null,
   },
   {
