@@ -126,7 +126,7 @@ export const GAMES = [
     shortLabel:    'MS',
     emoji:         '⭐',
     color:         '#38bdf8',
-    LOGIN_WS_URL:  'ws://ss47.251.75.73:8600/',
+    LOGIN_WS_URL:  'ws://47.251.75.73:8600/',
     GAME_VERSION:  '2.0.1',
     ORIGIN:        'http://okay.jkgame.vip',
     noWeekendSpin: true,
